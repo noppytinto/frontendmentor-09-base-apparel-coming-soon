@@ -1,0 +1,29 @@
+///////////////////////////////////
+// Colors
+///////////////////////////////////
+// primary colors
+$color-desaturated-red: hsl(0, 36%, 70%);
+$color-soft-red: hsl(0, 93%, 68%);
+
+// neutral colors
+$color-dark-grayish-red: hsl(0, 6%, 24%);
+
+// gradient colors
+$color-gradient-1-from: hsl(0, 0%, 100%);
+$color-gradient-1-to: hsl(0, 100%, 98%);
+$color-gradient-2-from: hsl(0, 80%, 86%);
+$color-gradient-2-to: hsl(0, 74%, 74%);
+
+
+
+///////////////////////////////////
+// Typography
+///////////////////////////////////
+$font-size: 16px;
+$font-family: 'Josefin Sans', sans-serif;
+
+
+///////////////////////////////////
+// breakpoints
+///////////////////////////////////
+$main-break: 900px;

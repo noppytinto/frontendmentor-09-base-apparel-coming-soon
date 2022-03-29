@@ -1,0 +1,15 @@
+@use './variables' as v;
+
+.hidden {
+  display: none;
+}
+
+.hidden-keep-space {
+  visibility: hidden;
+
+}
+
+.error {
+  border-width: 2px;
+  border-color: v.$color-soft-red;
+}
